@@ -1,4 +1,4 @@
-package net.marcloud.knockit.methods;
+package your.package;
 
 import org.bukkit.Material;
 import org.bukkit.enchantments.Enchantment;
